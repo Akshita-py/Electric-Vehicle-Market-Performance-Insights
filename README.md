@@ -47,13 +47,15 @@ This chart displays EV sales across model years to help explore how sales change
 ### 4. Sales by Country — Country Plot
 This visualization presents EV sales across countries and helps explore geographical differences in sales performance.
 
-## 📈 Dashboard Development
+## 📈 Dashboard 
 
 The visualizations are brought together in a Tableau dashboard to make the information easier to view and compare in one place. The dashboard is intended to help users explore EV sales data and understand the main patterns more easily.
+DASHBOARD LINK - https://public.tableau.com/app/profile/akshita.soni4795/viz/EV-market_insights/EVSalesDashboard?publish=yes
 
 ## 🌍 Tableau Story
 
 The project also explores the global EV manufacturing landscape, with a focus on manufacturing countries and the geographical distribution of EV-related records.
+STORY LINK - https://public.tableau.com/app/profile/akshita.soni4795/viz/EV-market_insights/ElectricVehicleMarketAnalysi?publish=yes
 
 ## ⚡ Performance Testing
 
