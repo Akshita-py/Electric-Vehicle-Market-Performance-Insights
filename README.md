@@ -47,14 +47,25 @@ This chart displays EV sales across model years to help explore how sales change
 ### 4. Sales by Country — Country Plot
 This visualization presents EV sales across countries and helps explore geographical differences in sales performance.
 
+### 5. Annual Sales by Battery Technology — Treemap
+This visualization compares EV sales across different battery technologies and helps identify which battery types contribute more to overall sales.
+
+### 6. Price vs. Annual Sales — Scatter Plot
+This chart explores the relationship between vehicle prices and annual sales, helping examine how sales vary across different price levels.
+
+### 7. EV Sales by Manufacturer — Treemap
+This visualization represents sales contributions from different manufacturers using rectangle sizes, making it easier to compare their relative performance.
+
 ## 📈 Dashboard 
 
 The visualizations are brought together in a Tableau dashboard to make the information easier to view and compare in one place. The dashboard is intended to help users explore EV sales data and understand the main patterns more easily.
+
 DASHBOARD LINK - https://public.tableau.com/app/profile/akshita.soni4795/viz/EV-market_insights/EVSalesDashboard?publish=yes
 
 ## 🌍 Tableau Story
 
 The project also explores the global EV manufacturing landscape, with a focus on manufacturing countries and the geographical distribution of EV-related records.
+
 STORY LINK - https://public.tableau.com/app/profile/akshita.soni4795/viz/EV-market_insights/ElectricVehicleMarketAnalysi?publish=yes
 
 ## ⚡ Performance Testing
