@@ -47,7 +47,7 @@ This chart displays EV sales across model years to help explore how sales change
 ### 4. Sales by Country — Country Plot
 This visualization presents EV sales across countries and helps explore geographical differences in sales performance.
 
-### 5. Annual Sales by Battery Technology — Treemap
+### 5. Annual Sales by Battery Technology — Bar Chart
 This visualization compares EV sales across different battery technologies and helps identify which battery types contribute more to overall sales.
 
 ### 6. Price vs. Annual Sales — Scatter Plot
